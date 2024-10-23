@@ -1,20 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "WEICOME TO MY HOMEPAGE！"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+您好！欢迎来到我的主页！我叫刘伟涛，来自湖南株洲，生日是2003.10.24。
+目前（2024.10.23）我是湘潭大学数学与应用数学专业的一名大四学生。我喜欢听[音乐](https://music.163.com/#/user/home?id=315677040)，Yellow，Photograph是我的最爱； 中长距离跑步，目前的目标是跑完一次10000m；踢足球，但是水平比较低，但我很喜欢在场上和朋友一起奔跑的感觉；看比赛，包括但不限于英雄联盟，瓦洛兰特，CS，足球，篮球；看电影小说，我喜欢看故事，所以文艺性比较强的电影和文学性太强的书我不感兴趣，看到那些精彩的故事是让我体验一种不同的人生；打游戏，包括但不限于英雄联盟的各种模式（id：自由是遗忘的伴随#85445 大区：艾欧尼亚）瓦洛兰特（ id：MGIO#26019）[Steam](https://steamcommunity.com/profiles/76561199028423416/) 如果您有想进一步了解我的想法可以添加我的QQ：2821968474，我们可以进一步交流了解，也许我们能成为朋友。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+我的一天非常简单， 起床，洗漱，（也许吃个早饭），学习或者打游戏，吃中饭，学习或者打游戏，跑步，吃晚饭，（处理琐事如洗衣服，洗澡，购物，回复消息，打电话给爸妈等等), 学习或者打游戏， 上床玩手机，睡觉。 一般而言非比赛日只有在床上的时候我才会有大片的时间玩手机(>30min),  我不（极少极少）玩手机游戏，一般而言是刷虎扑，[b站](https://space.bilibili.com/170010528?spm_id_from=333.999.0.0)，[知乎](https://www.zhihu.com/people/ao-zang-43）或者去外面逛一逛。碎片化的用手机时间我一般会逛数学帖子，看知乎，和别人聊天。
 
+
+制作这个主页的目的主要是：
+1.收集数学资料包括（自己制作的和别人的）
+1.向不熟悉的人介绍自己
+1.未雨绸缪
+1.找乐子
+特别是借助网络资源辅助自己学习数学。 我的人生理想之一是做出属于自己的数学成果，但是目前我的数学水平并不高，我还需要学习很多很多。我的数学兴趣主要偏代数方向，会基础的LaTeX(PDF与PPT), 一点点C++语言(托高中信息竞赛的福), 一点点MMA. 外语方面，听：基本能听懂本科生阶段的网课，但是报告基本听不懂(也许是南美口音和数学水平的问题), 说：没有和外国人口头交流过数学，读：不使用(极少极少)使用翻译软件能看懂notes, textbook or paper ，写：写过中英混杂的notes, 在MSE上提过问题并且用英语书面交流问题。 法语：还在入门。
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
