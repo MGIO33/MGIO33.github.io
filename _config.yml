@@ -291,6 +291,7 @@ defaults:
       layout: notes
       author_profile: true
       share: true
+      comments: true
 
 
 # Sass/SCSS
