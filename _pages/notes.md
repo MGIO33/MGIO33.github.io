@@ -4,4 +4,4 @@ title: "Notes"
 permalink: /notes/
 author_profile: true
 ---
-[Notes of Category Theory](notes/Notes of Category Theory.pdf)
+[Notes of Category Theory](_notes/notes of category theory.pdf)
