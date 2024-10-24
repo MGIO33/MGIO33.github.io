@@ -68,5 +68,5 @@ author_profile: true
 
 Some papers
 =====
-[GAGA](http://mgio33.github.io/files/J.-P. Serre, Algebraic Geometry and Analytic Geometry.pdf
+[GAGA](http://mgio33.github.io/files/J.-P. Serre, Algebraic Geometry and Analytic Geometry.pdf)
    
