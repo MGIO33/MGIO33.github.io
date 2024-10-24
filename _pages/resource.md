@@ -1,10 +1,8 @@
 ---
-permalink: /resource/
+layout: archive
 title: "Online Resource"
+permalink: /resource/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ##  一些视频创作者或者搬运者(youtube还不是我主要使用的平台,所以下面都是b站up主,也许以后会加上一些油管博主)

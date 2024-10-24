@@ -226,6 +226,9 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path/
+  resource:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -285,6 +288,15 @@ defaults:
       author_profile: true
       share: true
   # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _resource
   - scope:
       path: ""
       type: notes
