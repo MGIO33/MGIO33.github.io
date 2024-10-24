@@ -17,7 +17,7 @@ author_profile: true
    - [Symplectic流行](https://space.bilibili.com/371865065/?spm_id_from=333.999.0.0) 搬运报告视频
    - [皇贵妃太难当了](https://space.bilibili.com/383595761/?spm_id_from=333.999.0.0) 陈天权分析网课
 
-##  一些数学网站
+##  一些有关数学的网站
    - [Wikipedia](https://en.wikipedia.org/wiki/Wiki) 
    - [Math Stack Exchange](https://math.stackexchange.com/)
    - [MathOverflow](https://mathoverflow.net/)
@@ -25,6 +25,16 @@ author_profile: true
    - [Brilliant](https://brilliant.org/) 感觉适合小朋友
    - [nLab](https://ncatlab.org/nlab/show/HomePage) 能把一个概念解释得非常清楚, 非常棒的网站
    - [mathworld](https://mathworld.wolfram.com/) 找定义 
+   - [Fun Facts](https://math.hmc.edu/funfacts/) 上面有很多有意思的帖子有图片供参考
+   - [MAA review](https://kconrad.math.uconn.edu/) 书评
+   - [Stack project](https://stacks.math.columbia.edu/) 
+   - [Tricki](https://www.tricki.org/) 记录了常用的tricks
+   - [Groupprops](https://groupprops.subwiki.org/) 可以用来搜索群的各种信息
+   - [How to Become a Pure Mathematician](http://hbpms.blogspot.com/?m=1)
+   - [动力系统暑校和会议](https://www.ergodictheory.net/) 在上面可以找到全球举办的动力系统方向的暑校和会议
+   - [MacTutor](https://mathshistory.st-andrews.ac.uk/) 可以读数学故事
+   - [What is ...](https://arminstraub.com/math/what-is-column)
+   
 
 ##  一些编程网站
    - [VisuAlgo](https://visualgo.net/zh) 可视化数据结构和算法
@@ -36,3 +46,27 @@ author_profile: true
 ## 一些工具网站
    - [overleaf](https://cn.overleaf.com/) 写LaTeX
    - [tikzcd](https://tikzcd.yichuanshen.de/)   画交换图
+
+## 一些数学人的主页
+   - [wwu](https://www.ocf.berkeley.edu/~wwu/) 他的riddles里面有很多有趣的问题
+   - [Keith Conrad](https://kconrad.math.uconn.edu/) 尤其是Expository papers里面太丰富了
+   - [George Mark Bergman](https://math.berkeley.edu/~gbergman/)内容难以置信的丰富, 但是里面大部分文件是.ps. [这是](https://math.berkeley.edu/~gbergman/.C.to.L/)Lang的代数的勘误
+   - [What's new](https://terrytao.wordpress.com/) 陶哲轩的博客
+   - [Gowers's Weblog](https://gowers.wordpress.com/) Gowers的博客
+   - [James Milne's Homepage](https://www.jmilne.org/) 算术几何
+   - [Leila Schneps] (https://webusers.imj-prg.fr/~leila.schneps/) 在这里能直接找到[Grothendieck Circle](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/index.php)
+   - [田乙胜](https://sites.google.com/site/yishengtianmaths/home)
+   - [Peter Smith](https://www.logicmatters.net/) 我所知道的数理逻辑和集合论方向最全面的资料
+   - [梁永祺](https://faculty.ustc.edu.cn/yqliang/index.jsp)
+   - [肖梁](http://faculty.bicmr.pku.edu.cn/~lxiao/index.htm)
+   - [Andreas Gathmann](https://math.rptu.de/en/wgs/agag/people/head/gathmann/seite)
+   - [Franz Lemmermeyer](http://www.fen.bilkent.edu.tr/~franz/)
+   - [Ravi Vakil](https://math.stanford.edu/~vakil/)
+   - [Aareyan Manzoor's Homepage](https://aareyanmanzoor.github.io/) 将一些东西翻译成了英文
+   - [Tim Hosgood](https://thosgood.com/) 翻译
+   - [Piotr Achinger](https://achinger.impan.pl/index.html) 他翻译的[FAC](https://achinger.impan.pl/fac/fac.pdf)
+
+Some papers
+=====
+[GAGA](http://mgio33.github.io/files/J.-P. Serre, Algebraic Geometry and Analytic Geometry.pdf
+   
