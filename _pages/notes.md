@@ -4,9 +4,4 @@ title: "Notes"
 permalink: /notes/
 author_profile: true
 ---
-
-{% include base_path %}
-
-{% for post in site.notes reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Notes of Category Theory](notes/Notes of Category Theory.pdf)
