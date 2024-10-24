@@ -54,7 +54,7 @@ author_profile: true
    - [What's new](https://terrytao.wordpress.com/) 陶哲轩的博客
    - [Gowers's Weblog](https://gowers.wordpress.com/) Gowers的博客
    - [James Milne's Homepage](https://www.jmilne.org/) 算术几何
-   - [Leila Schneps] (https://webusers.imj-prg.fr/~leila.schneps/) 在这里能直接找到[Grothendieck Circle](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/index.php)
+   - [Leila Schneps](https://webusers.imj-prg.fr/~leila.schneps/) 在这里能直接找到[Grothendieck Circle](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/index.php)
    - [田乙胜](https://sites.google.com/site/yishengtianmaths/home)
    - [Peter Smith](https://www.logicmatters.net/) 我所知道的数理逻辑和集合论方向最全面的资料
    - [梁永祺](https://faculty.ustc.edu.cn/yqliang/index.jsp)
