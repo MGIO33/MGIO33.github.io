@@ -4,4 +4,4 @@ title: "Notes"
 permalink: /notes/
 author_profile: true
 ---
-[Notes of Category Theory](http://mgio33.github.io/files/notes of category theory.pdf)(Last updated 2024.10.24)
+[Notes of Category Theory](http://mgio33.github.io/files/notes of category theory.pdf)(Last updated 2024.11.10)
